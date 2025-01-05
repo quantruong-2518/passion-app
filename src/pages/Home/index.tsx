@@ -2,7 +2,6 @@ import React from 'react';
 import { MatchCounter } from './MatchCounter';
 
 import PassionLogo from '../../assets/Logo/logo.png';
-import BG from '../../assets/BG/bg.png';
 
 import { WinRate } from './WinRate';
 import { Match } from './Match';
