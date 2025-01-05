@@ -5,3 +5,7 @@
 body {
   font-family: 'Faustina', serif;
 }
+
+:root {
+  font-size: 16px;
+}
